@@ -7,8 +7,6 @@
 
 #### Installing
 
-### Installing
-
 1. chmod +x \*.\*
 2. ./setup.sh or sh setup.sh to install styling. 
 
@@ -20,6 +18,7 @@
 
 # Youtube
 https://youtube.com/ExpertAnonymousOfficial
+
 
 
 
