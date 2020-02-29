@@ -5,14 +5,22 @@
 ## This script will make your termux look better. Enjoy! !
 ![](logo.png)
 
-Installing
-chmod +x *.*
-./setup.sh or sh setup.sh to install styling.
-Updating
-use command updatedw to update the script.
+#### Installing
+
+### Installing
+
+1. chmod +x \*.\*
+2. ./setup.sh or sh setup.sh to install styling. 
+
+#### Updating
+
+1. use command **updatedw** to update the script.
+
+
 
 # Youtube
 https://youtube.com/ExpertAnonymousOfficial
+
 
 
 Follow me on :
