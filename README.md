@@ -4,10 +4,7 @@
 
 ## This script will make your termux look better. Enjoy! !
 logo
-
-
-
-
+![](logo.png)
 
 Installing
 chmod +x *.*
