@@ -1,4 +1,16 @@
 # Made by Expert Anonymous
 
-## termuxstyling tool
+# termuxstyling tool
 
+## This script will make your termux look better. Enjoy! !
+logo
+
+
+
+
+
+Installing
+chmod +x *.*
+./setup.sh or sh setup.sh to install styling.
+Updating
+use command updatedw to update the script.
